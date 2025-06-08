@@ -14,3 +14,4 @@ Only script for averaging added.
 
 08/06/2025
 Added v2 of script for solvent background subtraction. v3 has options to subtract capillary and solvent separately, but not added for time-resolved SAXS data yet.
+Added script for merging data v1. This script requires Mantid to be installed in Python.
