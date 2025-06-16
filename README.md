@@ -5,9 +5,9 @@ Code is written for a setup with two detectors. The higher q is named 'pilatus' 
 Change this if necessary, this may affect the subtraction part, where the scaling of the water peak is based on only the 'pilatus' detector.
 
 Data workflow:
-1) SEC-SAXS_average.ipynb
-2) SEC-SAXS_subtraction.ipynb
-3) SEC-SAXS_merge.ipynb
+1) TR-SAXS_average.ipynb
+2) TR-SAXS_subtraction.ipynb
+3) TR-SAXS_merge.ipynb
 
 11/05/2025
 Only script for averaging added.
